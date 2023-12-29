@@ -1,12 +1,14 @@
 terraform {
 
+/*
   cloud {
-    organization = "organization-name"
+    organization = "ianandersonlab-rnd"
 
     workspaces {
       name = "learn-terraform-cloud"
     }
   }
+*/
 
   required_providers {
     aws = {
